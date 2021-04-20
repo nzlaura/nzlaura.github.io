@@ -86,7 +86,7 @@ p {
 
 }
 /*images*/
-img {
+.front-page-img {
   display: block;
   border-radius: 30%;
   border: 1px solid black;
@@ -97,3 +97,10 @@ img {
   margin-right: auto;
 }
 
+img {
+  display: block;
+  border radius: 100%;
+  max width: 50%;
+  height: 50%;
+  margin: auto;
+}
