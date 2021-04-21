@@ -120,3 +120,21 @@ p {
   width: 200px;
   text-align: center:
 }
+
+.padding-example {
+display: block;
+border-radius: auto;
+height: 10rem;
+width: 10rem;
+padding-left: 500px;
+
+}
+
+.margin-example {
+  display: block;
+  border-radius: auto;
+  height: 10rem;
+  width: 10rem;
+  margin-bottom: 50px;
+
+}
