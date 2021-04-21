@@ -29,7 +29,10 @@ p {
     padding: 30px;
 }
 
-
+.blog-text {
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
 
 
 /* navigation */
@@ -97,10 +100,23 @@ p {
   margin-right: auto;
 }
 
-img {
+.blog-img {
   display: block;
   border radius: 100%;
   max width: 50%;
   height: 50%;
   margin: auto;
+}
+
+.border {
+  border: 3px solid blueviolet;
+  border-radius: auto;
+  height: auto;
+}
+ 
+.inline-images {
+  display: inline-block
+  height: 100px;
+  width: 200px;
+  text-align: center:
 }
