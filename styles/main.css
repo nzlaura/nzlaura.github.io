@@ -69,6 +69,9 @@ p {
   /*boxes for links on page*/
 .inline-block {
     display: inline-block;
+    margin-left: 40%;
+    margin-right: 60%;
+    margin-bottom: 1rem;
     width:300px;
     height:60px;
     line-height:50px;
@@ -84,7 +87,7 @@ p {
     width: 870px;
     height: 20px;
     line-height: 20px;
-    background: whitesmoke;
+    background: rgb(14, 12, 12);
     border: 1px solid;
     border-color: rgb(55, 80, 92);
     text-align: center;
