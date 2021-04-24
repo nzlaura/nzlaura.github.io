@@ -8,7 +8,7 @@
 h1 {
     font-family: Arial;
      text-align: center;
-     font-size: large:
+     font-size: large;
    
      
 }
@@ -113,8 +113,8 @@ p {
 
 .blog-img {
   display: block;
-  border radius: 100%;
-  max width: 50%;
+  border-radius: 100%;
+  max-width: 50%;
   height: 50%;
   margin: auto;
 }
@@ -126,10 +126,10 @@ p {
 }
  
 .inline-images {
-  display: inline-block
+  display: inline-block;
   height: 100px;
   width: 200px;
-  text-align: center:
+  text-align: center;
 }
 
 .padding-example {
