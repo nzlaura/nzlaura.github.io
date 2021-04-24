@@ -36,7 +36,11 @@ p {
   margin-right: 5rem;
 }
 
-
+.list-orientation {
+  text-align: left ;
+  padding-left: 15%;
+  padding-right: 10%;
+}
 
 /* navigation */
 .navbar {
@@ -87,7 +91,7 @@ p {
     width: 870px;
     height: 20px;
     line-height: 20px;
-    background: rgb(14, 12, 12);
+    background: whitesmoke;
     border: 1px solid;
     border-color: rgb(55, 80, 92);
     text-align: center;
