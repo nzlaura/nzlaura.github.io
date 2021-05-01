@@ -113,9 +113,8 @@ p {
 
 .blog-img {
   display: block;
-  border-radius: 100%;
-  max-width: 50%;
-  height: 50%;
+  max-width: 30%;
+  height: 30%;
   margin: auto;
 }
 
@@ -130,6 +129,11 @@ p {
   height: 100px;
   width: 200px;
   text-align: center;
+}
+
+.code-examples {
+  display: block;
+
 }
 
 .padding-example {
