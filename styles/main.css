@@ -157,3 +157,33 @@ padding-left: 500px;
   margin-bottom: 50px;
 
 }
+
+/* media queries for phones */
+
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  .content {
+      max-width: 280px;
+      padding-left: 0;
+      padding-right: 0;
+  }
+
+  .top-links {
+      position: absolute;
+      top: 80px;
+      display: block;
+  }
+
+  .blog-img {
+      max-width: 280px;
+  }
+
+  .navbar {
+      display: none;
+  }
+
+  h1 {
+      font-size: 2rem;
+      max-width: 300px;
+  }
+}
+
